@@ -4,7 +4,7 @@
     "members": ["Jin", "Suga", "J-Hope", "RM", "Jimin", "V", "Jungkook"],
     "genre": "Boy group",
     "logoCredits": "By Budiey, (CC BY-NC 2.0), https://www.flickr.com/photos/malique/50642473388",
-    "logo": "bts.webp",
+    "logo": "logo_bts.jpg",
     "bio": "BTS, also known as the Bangtan Boys, is a South Korean boy band that was formed in 2010 and debuted in 2013 under Big Hit Entertainment. The septet—consisting of members Jin, Suga, J-Hope, RM, Jimin, V, and Jungkook—co-writes and co-produces much of their own output. Originally a hip hop group, their musical style has evolved to include a wide range of genres. Their lyrics, often focused on personal and social commentary, touch on the themes of mental health, troubles of school-age youth and coming of age, loss, the journey towards loving oneself, and individualism. Their work also often references literature and psychological concepts and includes an alternative universe storyline."
   },
   {
@@ -117,7 +117,7 @@
   {
     "name": "Momoland",
     "members": ["Ahin", "Jane", "JooE", "Hyebin", "Nancy", "Nayun"],
-    "logo": "momoland.webp",
+    "logo": "logo_momoland.png",
     "logoCredits": "By 사진기자머길, (CC BY 3.0), https://commons.wikimedia.org/wiki/File:Momoland_Ready_or_Not_showcase_201117.png",
     "bio": "Momoland is a South Korean girl group formed by MLD Entertainment (formerly known as Duble Kick Company) through the 2016 reality show Finding Momoland. The show's winners Hyebin, Yeonwoo, Jane, Nayun, JooE, Ahin, and Nancy served as the original members. Their debut mini album Welcome to Momoland was released on November 10, 2016. In 2017, Momoland became a nine-member group when Daisy and Taeha joined as members. In 2019, Taeha and Yeonwoo left the group, and Daisy departed in 2020. The group currently consists of Ahin, Hyebin, Jane, JooE, Nancy and Nayun.",
     "genre": "Girl group"
